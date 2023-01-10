@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-01-10T14:34:52" hostname="phivoss-MacBook-Pro.local" time="0.018">
+  <properties/>
+  <testcase name="Input0()" classname="FizzBuzzTest" time="0.012"/>
+  <testcase name="Input1()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="Input2()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="Input3()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="Input4()" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="Input5()" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="Input6()" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="Input10()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="Input15()" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
