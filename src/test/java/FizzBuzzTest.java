@@ -18,7 +18,7 @@ public class FizzBuzzTest {
                     "Fizz:3",
                     "4:4",
                     "Buzz:5",
-                    "Buzz:10"
+                    "Buzz:10",
                     "FizzBuzz:15"
             })
     void TestFizzBuzz(String expected, String actual) {
